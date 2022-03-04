@@ -1,5 +1,5 @@
 # git_5_quest
-quelques lignes de texte
+LOCAL
 blabla
 bleble
 bloblo
